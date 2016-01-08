@@ -1,0 +1,16 @@
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\bin\Debug\KinectSilhouetteDriver.exe.config
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\bin\Debug\KinectSilhouetteDriver.exe
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\bin\Debug\KinectSilhouetteDriver.pdb
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\bin\Debug\Microsoft.Kinect.dll
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\bin\Debug\Microsoft.Kinect.xml
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver.csprojResolveAssemblyReference.cache
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\MainWindow.g.cs
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\App.g.cs
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver_MarkupCompile.cache
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver_MarkupCompile.lref
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\MainWindow.baml
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver.g.resources
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver.Properties.Resources.resources
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver.csproj.GenerateResource.Cache
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver.exe
+D:\WORK\KinectSilhouette\KinectSilhouetteDriver\obj\Debug\KinectSilhouetteDriver.pdb
